@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdelilah Hayane, and I'm a Full-Stack Developer, from Morocco.</p>
+<p align="left">My name is Abdelilah HAYANE, and I'm a Full-Stack Developer, from Morocco.</p>
 
 ###
 
